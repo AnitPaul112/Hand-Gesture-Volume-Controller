@@ -44,7 +44,7 @@ pip install comtypes
 
 1. **Clone or download the project**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/AnitPaul112/Hand-Gesture-Volume-Controller
    cd mediapipe
    ```
 
